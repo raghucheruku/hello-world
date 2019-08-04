@@ -1,5 +1,6 @@
 <body bgcolor="#E6E6FA">
-<h1> Hello, Welcome to DevOps !!! </h1>
+  <font color="red">This is some text!</font>
+<h1> Welcome to DevOps by Raghu Cheruku </h1>
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
